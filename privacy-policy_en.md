@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated:** August 14, 2026
+**Last updated:** August 18, 2026
 
-This Privacy Policy explains how data is collected, used, and shared when you use the **Time Tracker** application (the "App") for macOS, iPhone, and iPad. We respect your privacy and are committed to protecting your data.
+This Privacy Policy explains how data is collected, used, and shared when you use the **Time Tracker Simple** application (the "App") for macOS, iPhone, and iPad. We respect your privacy and are committed to protecting your data.
 
 The App **does not require registration** or an account. All time-tracking data you create is stored **locally on your device**. If you choose to, you can sync it across your own devices via iCloud — in that case the data is stored **in your personal iCloud storage**, not on the developer's servers.
 
@@ -51,8 +51,8 @@ We **do not** share your data with third-party artificial intelligence models fo
 Because time-tracking data is stored locally and the developer has no access to it, you are fully in control of it:
 
 1.  You can delete individual records and tasks directly within the App.
-2.  To completely remove all local data, simply uninstall the **Time Tracker** App from your device.
-3.  If you enabled syncing, you can turn it off in the App's settings to stop exchanging data with iCloud. The copy stored in iCloud is removed when you delete the corresponding records in the App, and can also be removed in your system settings: Settings/System Settings → your Apple ID → iCloud → storage management → **Time Tracker**.
+2.  To completely remove all local data, simply uninstall the **Time Tracker Simple** App from your device.
+3.  If you enabled syncing, you can turn it off in the App's settings to stop exchanging data with iCloud. The copy stored in iCloud is removed when you delete the corresponding records in the App, and can also be removed in your system settings: Settings/System Settings → your Apple ID → iCloud → storage management → **Time Tracker Simple**.
 
 Uninstalling the App also stops any further analytics collection. You may send a request regarding your data at any time to the address listed in the "Contact" section.
 
