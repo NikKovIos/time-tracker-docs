@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** August 18, 2026
+**Last updated:** August 19, 2026
 
 This Privacy Policy explains how data is collected, used, and shared when you use the **Time Tracker Simple** application (the "App") for macOS, iPhone, and iPad. We respect your privacy and are committed to protecting your data.
 
